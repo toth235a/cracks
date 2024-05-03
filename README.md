@@ -8,5 +8,5 @@ Crack segmentation tools
    https://www.kaggle.com/code/displayedfullname2/notebook6c440f9989
    Log in/sign up and click on the Copy and edit button to start the notebook.
   
-3. If you do not want to create a kaggle account, you can use Google colab, you just need a google account (you may have to use your private google account as the company account may not work). In Google colab, you get less free GPU resources:
+3. If you do not want to create a kaggle account, you can use Google colab, you just need a google account (you may have to use your private google account as the company account may not work). Please keep in mind, however, that Google colab provides you less free GPU resources than kaggle:
    [https://github.com/toth235a/cracks/blob/main/Crack_segmentation_with_Mask2Former.ipynb](https://colab.research.google.com/github/toth235a/cracks/blob/main/Crack_segmentation_with_Mask2Former.ipynb)

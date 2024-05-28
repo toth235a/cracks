@@ -10,4 +10,4 @@ Crack segmentation tools
    
 4. (colab - training of a new model on new data) You can retrain the model on your data if your cracks are different (masonry, asphalt, speckled surface etc.). You need colab+ (paying version) https://colab.research.google.com/github/toth235a/cracks/blob/main/Training_a_crack_segmentation_model_with_Mask2Former_ViT_adapter.ipynb
   
-5. (kaggle - prediction of concrete cracks if you do not have a GPU) Kaggle is similar to colab, very easy to create an account, you probably need to verify it with your mobile phone. Gives more free resources than google.
+5. (kaggle - prediction of concrete cracks if you do not have a GPU) Kaggle is similar to colab, very easy to create an account, you probably need to verify it with your mobile phone. Gives more free resources than google. Click on "Copy and edit" after clicking on the link. https://www.kaggle.com/displayedfullname2/prediction-with-a-crack-segmentation-model
